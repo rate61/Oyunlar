@@ -23,14 +23,12 @@
          ]
       },
       "Deliverance":{
-         "latestVersion":"1.0.2",
-         "latestVersionCode":102,
+         "latestVersion":"17",
+         "latestVersionCode":17,
          "url":"https://adultoyunceviri.com/konular/acting-lessons-turkce-1-0-2.85/",
          "ID":89,
          "releaseNotes":[
-            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
-            "- Bazı ilerleme sorunları giderildi.",
-            "- Çeviri hataları düzenlendi."
+            "- Oyun Beta aşamasındadır"
          ]
       }
    }
