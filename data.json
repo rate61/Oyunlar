@@ -11,17 +11,6 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
-      "BeingaDIK":{
-         "latestVersion":"1.0.2",
-         "latestVersionCode":102,
-         "url":"https://adultoyunceviri.com/konular/acting-lessons-turkce-1-0-2.85/",
-         "ID":89,
-         "releaseNotes":[
-            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
-            "- Bazı ilerleme sorunları giderildi.",
-            "- Çeviri hataları düzenlendi."
-         ]
-      },
       "ProjectATMOSPHERE":{
          "latestVersion":"0.3",
          "latestVersionCode":3,
@@ -33,8 +22,8 @@
       },
       "TheIntoxicatingFlavor":{
          "latestVersion":"0.8.4",
-         "latestVersionCode":840,
-         "url":"https://adultoyunceviri.com/konular/acting-lessons-turkce-1-0-2.85/",
+         "latestVersionCode":84,
+         "url":"https://adultoyunceviri.com/konular/the-intoxicating-flavor-turkce.476/",
          "ID":89,
          "releaseNotes":[
             "- Oyun Beta aşamasındadır"
@@ -43,6 +32,15 @@
       "FamilyMatters":{
          "latestVersion":"0.9",
          "latestVersionCode":9,
+         "url":"https://adultoyunceviri.com/konular/family-matters-turkce.557/",
+         "ID":89,
+         "releaseNotes":[
+            "- Oyun Beta aşamasındadır"
+         ]
+      },
+      "Intertwined":{
+         "latestVersion":"0.8.2",
+         "latestVersionCode":82,
          "url":"https://adultoyunceviri.com/konular/project-atmosphere-turkce.1926/",
          "ID":89,
          "releaseNotes":[
