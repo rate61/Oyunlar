@@ -20,6 +20,15 @@
             "- Oyun Beta aşamasındadır"
          ]
       },
+      "LivetoFight":{
+         "latestVersion":"0.5.9",
+         "latestVersionCode":59,
+         "url":"https://adultoyunceviri.com/konular/live-to-fight-turkce.30/",
+         "ID":89,
+         "releaseNotes":[
+            "- Oyun Beta aşamasındadır"
+         ]
+      },
       "TheIntoxicatingFlavor":{
          "latestVersion":"0.8.4",
          "latestVersionCode":84,
