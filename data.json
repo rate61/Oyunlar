@@ -11,6 +11,16 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
+      "AwayFromHome":{
+         "latestVersion":"15",
+         "latestVersionCode":15,
+         "url":"https://adultoyunceviri.com/konular/away-from-home-turkce-bolum-11.693/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
       "BrokenDreamers":{
          "latestVersion":"1.11.0",
          "latestVersionCode":111,
