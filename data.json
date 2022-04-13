@@ -21,6 +21,16 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
+      "StayTrue,StayYou":{
+         "latestVersion":"0.3.0",
+         "latestVersionCode":3,
+         "url":"https://adultoyunceviri.com/konular/stay-true-stay-you-turkce-0-2-1.171/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
       "BrokenDreamers":{
          "latestVersion":"1.11.0",
          "latestVersionCode":111,
