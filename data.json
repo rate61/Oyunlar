@@ -21,6 +21,16 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
+      "TheOffice":{
+         "latestVersion":"0.1",
+         "latestVersionCode":1,
+         "url":"https://adultoyunceviri.com/konular/the-office-turkce.781/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
       "StayTrue,StayYou":{
          "latestVersion":"0.3.0",
          "latestVersionCode":3,
