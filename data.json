@@ -11,6 +11,26 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
+      "SunshineLove":{
+         "latestVersion":"1.0.0",
+         "latestVersionCode":100,
+         "url":"https://adultoyunceviri.com/konular/sunshine-love-turkce-0-5-1.23/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
+      "SunshineLoveCH2":{
+         "latestVersion":"0.01.5",
+         "latestVersionCode":15,
+         "url":"https://adultoyunceviri.com/konular/sunshine-love-turkce-0-5-1.23/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
       "AwayFromHome":{
          "latestVersion":"15",
          "latestVersionCode":15,
