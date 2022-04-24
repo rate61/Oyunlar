@@ -11,6 +11,16 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
+      "Something Special":{
+         "latestVersion":"0.1.13",
+         "latestVersionCode":113,
+         "url":"https://adultoyunceviri.com/konular/a-o-a-academy-turkce-bolum-4.515/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
       "SunshineLove":{
          "latestVersion":"1.0.0",
          "latestVersionCode":100,
