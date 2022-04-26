@@ -11,6 +11,16 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
+      "LustTheory2":{
+         "latestVersion":"2.8",
+         "latestVersionCode":208,
+         "url":"https://adultoyunceviri.com/konular/echoes-of-lust-turkce.412/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
       "SomethingSpecial":{
          "latestVersion":"0.1.13",
          "latestVersionCode":113,
