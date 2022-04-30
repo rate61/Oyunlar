@@ -118,11 +118,12 @@
          ]
       },
       "ProjectATMOSPHERE":{
-         "latestVersion":"0.3",
-         "latestVersionCode":3,
+         "latestVersion":"0.3.4",
+         "latestVersionCode":304,
          "url":"https://adultoyunceviri.com/konular/project-atmosphere-turkce.1926/",
          "ID":96,
          "releaseNotes":[
+            "- Oyun v0.3-P4 sürümüne güncellendi.",
             "- Oyun Beta aşamasındadır"
          ]
       },
@@ -163,12 +164,13 @@
          ]
       },
       "UniversityofProblems":{
-         "latestVersion":"0.8.5",
-         "latestVersionCode":85,
+         "latestVersion":"0.9.0",
+         "latestVersionCode":90,
          "url":"https://adultoyunceviri.com/konular/university-of-problems-turkce.1997/",
          "ID":94,
          "releaseNotes":[
-            "- Oyun Beta aşamasındadır"
+            "- Oyun 0.9.0 sürümüne güncellendi.",
+            "- Oyun Beta aşamasındadır."
          ]
       },
       "LivetoFight":{
