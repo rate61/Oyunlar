@@ -11,6 +11,16 @@
             "- Çeviri hataları düzenlendi."
          ]
       },
+      "TheSecretReloaded":{
+         "latestVersion":"0.4.5",
+         "latestVersionCode":405,
+         "url":"https://adultoyunceviri.com/konular/a-o-a-academy-turkce-bolum-4.515/",
+         "releaseNotes":[
+            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
+            "- Bazı ilerleme sorunları giderildi.",
+            "- Çeviri hataları düzenlendi."
+         ]
+      },
       "BacktotheCabin":{
          "latestVersion":"0.3",
          "latestVersionCode":3,
