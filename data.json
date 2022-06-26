@@ -12,13 +12,12 @@
          ]
       },
       "TheDeLucaFamily":{
-         "latestVersion":"0.08.0.2",
-         "latestVersionCode":820,
+         "latestVersion":"0.08.0.3",
+         "latestVersionCode":830,
          "url":"https://adultoyunceviri.com/konular/the-deluca-family-turkce.17/",
          "releaseNotes":[
-            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
-            "- Bazı ilerleme sorunları giderildi.",
-            "- Çeviri hataları düzenlendi."
+            "- Oyun 0.08.0.3 sürümüne güncellendi.",
+            "- Bu sürüm hata düzeltmeleri içermektedir."
          ]
       },
       "ACADEMY34":{
