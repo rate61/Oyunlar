@@ -20,12 +20,21 @@
             "- Bu sürüm hata düzeltmeleri içermektedir."
          ]
       },
-      "TheWankingDead":{
-         "latestVersion":"1.5",
-         "latestVersionCode":15,
+      "TheDeLucaFamily":{
+         "latestVersion":"0.08.0.3",
+         "latestVersionCode":830,
          "url":"https://adultoyunceviri.com/konular/the-deluca-family-turkce.17/",
          "releaseNotes":[
-            "- Oyun S1 B5 sürümüne güncellendi.",
+            "- Oyun 0.08.0.3 sürümüne güncellendi.",
+            "- Bu sürüm hata düzeltmeleri içermektedir."
+         ]
+      },
+      "NetorareWifeMisumi":{
+         "latestVersion":"1.0.1",
+         "latestVersionCode":1001,
+         "url":"https://adultoyunceviri.com/konular/the-deluca-family-turkce.17/",
+         "releaseNotes":[
+            "- Oyun Final sürümüne güncellendi.",
             "- Oyun Beta aşamasındadır."
          ]
       },
