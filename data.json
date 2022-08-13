@@ -128,16 +128,6 @@
             "- Oyun Beta aşamasındadır"
          ]
       },
-      "TheSecretReloaded":{
-         "latestVersion":"0.4.5",
-         "latestVersionCode":405,
-         "url":"https://adultoyunceviri.com/konular/a-o-a-academy-turkce-bolum-4.515/",
-         "releaseNotes":[
-            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
-            "- Bazı ilerleme sorunları giderildi.",
-            "- Çeviri hataları düzenlendi."
-         ]
-      },
       "BacktotheCabin":{
          "latestVersion":"0.3",
          "latestVersionCode":3,
@@ -301,11 +291,12 @@
          ]
       },
       "LivetoFight":{
-         "latestVersion":"0.5.9",
-         "latestVersionCode":59,
+         "latestVersion":"0.6.2",
+         "latestVersionCode":62,
          "url":"https://adultoyunceviri.com/konular/live-to-fight-turkce.30/",
          "ID":94,
          "releaseNotes":[
+            "- Oyun 0.6.2 sürümüne güncellendi.",
             "- Oyun Beta aşamasındadır"
          ]
       },
@@ -355,11 +346,12 @@
          ]
       },
       "MyBestDeal":{
-         "latestVersion":"1.6",
-         "latestVersionCode":16,
+         "latestVersion":"2.0",
+         "latestVersionCode":20,
          "url":"https://adultoyunceviri.com/konular/my-best-deal-turkce.718/",
          "ID":95,
          "releaseNotes":[
+            "- Oyun 2.0 sürümüne güncellendi.",
             "- Oyun Beta aşamasındadır"
          ]
       },
