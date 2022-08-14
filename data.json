@@ -1,14 +1,13 @@
 {
    "Oyunlar":{
       "AoA":{
-         "latestVersion":"1.0.2",
-         "latestVersionCode":102,
+         "latestVersion":"5",
+         "latestVersionCode":5,
          "url":"https://adultoyunceviri.com/konular/a-o-a-academy-turkce-bolum-4.515/",
          "ID":89,
          "releaseNotes":[
-            "- Hile Modu eklendi. (Hep olmalıymış zaten)",
-            "- Bazı ilerleme sorunları giderildi.",
-            "- Çeviri hataları düzenlendi."
+            "- Oyun CH5 Gold sürümüne güncellendi.",
+            "- Oyun Beta aşamasındadır."
          ]
       },
       "ShutUpandDance":{
