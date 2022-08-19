@@ -1,22 +1,22 @@
 {
    "Oyunlar":{
       "AoA":{
-         "latestVersion":"5",
+         "latestVersion":"5.1",
          "latestVersionCode":5,
          "url":"https://adultoyunceviri.com/konular/a-o-a-academy-turkce-bolum-4.515/",
          "ID":89,
          "releaseNotes":[
-            "- Oyun CH5 Gold sürümüne güncellendi.",
+            "- Yeni bölümde çevrilmeyen telefon konuşmaları çevrildi.",
             "- Oyun Beta aşamasındadır."
          ]
       },
       "WhataLegend":{
-         "latestVersion":"0.6.02",
+         "latestVersion":"0.6.02.1",
          "latestVersionCode":602,
          "url":"https://adultoyunceviri.com/konular/what-a-legend-turkce.1198/",
          "releaseNotes":[
-            "- Oyun 0.6.02 sürümüne güncellendi.",
-            "- Oyun Beta aşamasındadır."
+            "- Oyundaki çevrilmeyen görsel materyaller çevrildi.",
+            "- Bildirilen tüm çeviri ve dil bilgisi hataları giderildi."
          ]
       },
       "ShutUpandDance":{
